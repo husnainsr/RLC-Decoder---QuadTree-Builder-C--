@@ -1,0 +1,17 @@
+
+----Q2 Data Base is building 18:48:13
+Q4 Run RLC Question 18:48:21
+-----------------------------------------------------------------------------------------
+----Q4 RLC Encoding is Called. 18:48:24
+----Q4 RLC Decoding is Called. 18:48:25
+----Q4 Question 1 is terminated. 18:48:27
+-----------------------------------------------------------------------------------------
+Question 6 Hashing is Selected 18:48:28
+----Q6 Image Sucessfully found in data base. 18:48:35
+----Q6 Question  is terminated. 18:48:39
+-----------------------------------------------------------------------------------------
+Question 5 Quad Tree is Selected 18:48:43
+----Q5 Quad Tree is sucessfully constructed. 18:48:45
+----Q5 Post order is printed. 18:48:50
+----Q5 Pre order is printed. 18:48:53
+----Q5 Question  is terminated. 18:48:56

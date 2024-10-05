@@ -1,0 +1,9 @@
+
+----Q2 Data Base is building 18:32:1
+Q4 Run RLC Question 18:32:20
+-----------------------------------------------------------------------------------------
+----Q4 RLC Encoding is Called. 18:32:22
+----Q4 RLC Decoding is Called. 18:32:24
+----Q4 Avg Black Pixels in Row Function is Called. 18:32:27
+----Q4 Image is Converted into Negative. 18:32:32
+----Q4 Question 1 is terminated. 18:32:37
